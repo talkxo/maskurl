@@ -56,7 +56,7 @@ export default function HomePage() {
   return (
     <main style={{ display: "flex", minHeight: "100vh", alignItems: "center", justifyContent: "center", padding: 24, background: "#0b0f19", color: "#e6edf3" }}>
       <div style={{ width: "100%", maxWidth: 680 }}>
-        <h1 style={{ margin: 0, fontSize: 36, lineHeight: 1.2 }}>MaskURL</h1>
+        <h1 style={{ margin: 0, fontSize: 36, lineHeight: 1.2 }}>Wavelinks</h1>
         <p style={{ opacity: 0.8, marginTop: 8 }}>Conceal a destination by sharing a masked link. No login. No database.</p>
 
         <form onSubmit={onSubmit} style={{ display: "flex", gap: 8, marginTop: 24 }}>

@@ -1,4 +1,4 @@
-# MaskURL
+# Wavelinks
 
 Share a destination without revealing it. Generates a masked link like `/m/[token]` which opens the target URL in a full-screen iframe. No login, no database.
 

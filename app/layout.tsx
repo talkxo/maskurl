@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "MaskURL",
+  title: "Wavelinks",
   description: "Share links without revealing the destination URL"
 };
 
